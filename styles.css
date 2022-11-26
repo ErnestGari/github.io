@@ -51,10 +51,12 @@ body {background-color: coral;
     margin-right: auto;
     padding: 0 0 5em;
 }
+
 .p1 {
     font-family: "Lucida Console", "Courier New", monospace;
   }
-  .h1 {
+
+.h1 {
     font-family: "Lucida Console", "Courier New", monospace;
     background-color:rgb(181, 181, 231);
   }
